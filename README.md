@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avazbek2002
 - 👀 I’m interested in Artificial Intellegence, especially Machine Learning and their applications in Computer Vision
 - 🌱 I’m currently learning Superevised Learning
-- 💞️ I’m looking to collaborate on Handwritten Text Recognition Software.
+- 💞️ I’m looking for internships in Software Engineering.
 - 📫 How to reach me isroilovavazbek2002@gmail.com
 
 <!---
