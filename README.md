@@ -4,5 +4,5 @@ My name is Avazbek.
 - I am a computer science **student** at _Warwick University_.
 - I am passionate about **Machine Learning** and **Software Engineering**.
 - I have done some mini-projects in Machine Learning which are uploaded in my GitHub account.
-- Currently, I am looking for **internship** in Software Engineering or Machine Learning.
+- Currently, I am looking for an **internship** in Software Engineering or Machine Learning.
 
